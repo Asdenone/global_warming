@@ -8,3 +8,5 @@ The project talks about global warming and the fight against it
 Added a readme file
 ## Version 0.9
 All components of the project have been added and adjustments have been made to the readme file
+## Version 1.0 
+100% 
